@@ -1,5 +1,5 @@
 # Hello-world
-Valentina Dergunova.
+Valentina Dergunova, LLPRIT24S.
 Tässä repossa harjoitellaan työskennella respositorien kanssa.
 ## Tämä on Ohjelmistotuotannon tehtävä.
 Githubissa on mahdollista hallinta erilaisia työn versioita, työskennellä ryhmässä tai henkilökohtaisesti.
